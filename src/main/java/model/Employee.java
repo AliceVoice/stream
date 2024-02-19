@@ -1,7 +1,6 @@
 package model;
 
 import java.util.Objects;
-
 public class Employee {
     private final String firstName;
     private final String lastName;
